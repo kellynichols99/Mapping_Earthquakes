@@ -23,12 +23,12 @@ My goal was to make a multilayer map that shows all the earthquakes tracked in t
 <h3>Deliverable 2: Add Major Earthquake Data</h3>
 <p>Using my knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(). I also add color and set the radius of the circle markers based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON(). </p>
 
-<img src="[Deliverable 2: Add Major Earthquake Data.png](https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%202:%20Add%20Major%20Earthquake%20Data.png)">
+<img src="https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%202:%20Add%20Major%20Earthquake%20Data.png">
 
 <h3> Deliverable 3: Add an Additional Map</h3>
 <p>Using my knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.</p>
 
-<img src="[Deliverable 3: Add an Additional Map.png](https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%203:%20Add%20an%20Additional%20Map.png)">
+<img src="https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%203:%20Add%20an%20Additional%20Map.png">
 
 <body>
   
