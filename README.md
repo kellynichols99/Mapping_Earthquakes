@@ -18,17 +18,17 @@ My goal was to make a multilayer map that shows all the earthquakes tracked in t
 <h3> Deliverable 1: Add Tectonic Plate Data</h3>
 <p>Using my knowledge of JavaScript, Leaflet.js, and geoJSON data, I added tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.<p>
 
- <img src="Deliverable 1: Add Tectonic Plate Data.png">
+ <img src="[Deliverable 1: Add Tectonic Plate Data.png](https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%201:%20Add%20Tectonic%20Plate%20Data.png)">
   
 <h3>Deliverable 2: Add Major Earthquake Data</h3>
 <p>Using my knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(). I also add color and set the radius of the circle markers based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON(). </p>
 
-<img src="Deliverable 2: Add Major Earthquake Data.png">
+<img src="[Deliverable 2: Add Major Earthquake Data.png](https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%202:%20Add%20Major%20Earthquake%20Data.png)">
 
 <h3> Deliverable 3: Add an Additional Map</h3>
 <p>Using my knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.</p>
 
-<img src="Deliverable 3: Add an Additional Map.png">
+<img src="[Deliverable 3: Add an Additional Map.png](https://github.com/kellynichols99/Mapping_Earthquakes/blob/main/Deliverable%203:%20Add%20an%20Additional%20Map.png)">
 
 <body>
   
