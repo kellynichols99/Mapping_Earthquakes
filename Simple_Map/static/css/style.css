@@ -16,17 +16,9 @@ body,
 }
 
 .legend i {
-<<<<<<< HEAD
  float: left;
  width: 18px;
  height: 18px;
  margin-right: 8px;
  opacity: 0.7;
-=======
-  float: left;
-  width: 18px;
-  height: 18px;
-  margin-right: 8px;
-  opacity: 0.7;
->>>>>>> cd60b8c1bc7b6285b327fa47c702d3a4c31e5412
 }
