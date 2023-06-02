@@ -33,4 +33,4 @@ My goal was to make a multilayer map that shows all the earthquakes tracked in t
 <body>
   
 <h1>Challange Summary</h1>
-As you can see our map has multiple layers showing the tectonic plates, a dark layered map, and major earthquakes that have appened in the last 7 days.   
+As you can see our map has multiple layers showing the tectonic plates, a dark layered map, and major earthquakes that have happened in the last 7 days.   
